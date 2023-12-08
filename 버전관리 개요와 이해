@@ -1,0 +1,17 @@
+-Git: CLI 방식을 사용                * CLI(Command Line Interface)
+-소스트리: GUI 방식을 사용        * GUI(Graphical user Interface)
+
+Commit(커밋)
+- 저장소의 현 상태를 저장하는 행위, 깃 명령어
+
+HEAD
+- 가장 최근의 커밋을 가리키는 포인터
+
+Git repository(저장소)
+- 파일이나 폴더, 버전관리를 위한 파일을 저장해 두는 곳
+
+Push
+- 지역에서 원격 저장소로 자료를 올림
+
+Pull
+- 원격 저장소에서 지역 저장소로 자료를 내려받음
