@@ -1,5 +1,7 @@
--Git: CLI 방식을 사용                * CLI(Command Line Interface)
--소스트리: GUI 방식을 사용        * GUI(Graphical user Interface)
+# 버전관리 개요와 이해 필기
+
+- Git: CLI 방식을 사용            * CLI(Command Line Interface)
+- 소스트리: GUI 방식을 사용        * GUI(Graphical user Interface)
 
 Commit(커밋)
 - 저장소의 현 상태를 저장하는 행위, 깃 명령어
